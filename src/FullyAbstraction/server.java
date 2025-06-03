@@ -10,6 +10,10 @@ public abstract class server {				// partial abstraction
 	}
 
 	abstract void password();     // abstract method
+	
+	private void sysout() {
+		System.out.println("Hi,i'm Hariharan");
+	}
 
 
 }
