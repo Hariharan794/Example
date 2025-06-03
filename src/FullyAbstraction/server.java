@@ -17,6 +17,9 @@ public abstract class server {				// partial abstraction
 	private void sysout12() {
 		System.out.println("Good Afternoon Toall");
 	}
+	private void sysout123() {
+		System.out.println("Everybody Good Afternoon ");
+	}
 
 
 }
